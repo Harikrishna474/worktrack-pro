@@ -1,0 +1,6 @@
+{
+  "name": "WorkTrack Pro",
+  "description": "An editorial-style admin and productivity dashboard for digital curators, featuring task management, performance analytics, and system controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
